@@ -1,6 +1,6 @@
 # Web Source Atomic
 
-Voltando a estudar desenvolvimento front-end, seguindo os conselhos de um grande gestor com quem trabalhei, nos últimos dias me deparei com uma situação um pouco tediosa... Tentando aplicar técnicas design atômico (sim, tentando porque ainda estou apanhando um tanto para aprender rsrs) me via perdendo muito tempo criando os diretórios certos para os arquivos "na unha" (botão direto, nova pasta - 45x).
+Nos últimos dias me deparei com uma situação um pouco tediosa... Tentando aplicar técnicas design atômico me via perdendo muito tempo criando os diretórios certos para os arquivos "na unha" (botão direto, nova pasta - 45x).
 
 
 Como ainda estou engatinhando na utilização de frameworks e bibliotecas que fazem isso automaticamente, e recordando as aulas de Gestão de Sistemas Operacionais, desenvolvi um pequeno script .bat para automatizar a criação dos diretórios dos projetos básicos que venho desenvolvendo.
